@@ -1,4 +1,4 @@
-# nus
+# OchiDO
 
 ## Project setup
 ```
